@@ -2,7 +2,7 @@
 	"compilerOptions": {
 		"target": "es5",
 		"module": "commonjs",
-		"outDir": "./dist",
+		"outDir": "./public",
 		"rootDir": "./",
 		"baseUrl": "./",
 		"esModuleInterop": true /* Skip type checking all .d.ts files. */
